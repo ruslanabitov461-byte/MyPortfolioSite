@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/activity</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/issues</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/pulls</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/security</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/blob/main/about.html</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/blob/main/contact.html</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/blob/main/index.html</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/blob/main/script.js</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/blob/main/style.css</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/releases</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/search?q=repo%3Aruslanabitov461-byte%2FMyPortfolioSite++language%3AHTML</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/search?q=repo%3Aruslanabitov461-byte%2FMyPortfolioSite++language%3ACSS</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/search?q=repo%3Aruslanabitov461-byte%2FMyPortfolioSite++language%3AJavaScript</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/labels</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/milestones</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/runs/19257119194</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/milestones?state=closed</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/runs/19257119194/job/55053766509</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/runs/19257119194/job/55053791435</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/runs/19257119194/job/55053791431</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/actions/runs/19257119194/usage</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/ruslanabitov461-byte/MyPortfolioSite/commit/495afba08dd41d888acfb0c12e187bff3bfb66ae</loc>
+  <lastmod>2025-11-11T06:29:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
